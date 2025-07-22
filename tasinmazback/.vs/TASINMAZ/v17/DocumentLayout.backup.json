@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\interfaces\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\dtos\\logfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\logfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\UserService.cs",
+              "RelativeToolTip": "TASINMAZ\\Services\\UserService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:48:38.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "TASINMAZ\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:48:34.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\LogController.cs",
+              "RelativeToolTip": "TASINMAZ\\Controllers\\LogController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:42:26.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\LogService.cs",
+              "RelativeToolTip": "TASINMAZ\\Services\\LogService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:42:17.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\ILogService.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Interfaces\\ILogService.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\ILogService.cs",
+              "RelativeToolTip": "TASINMAZ\\Interfaces\\ILogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:42:12.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\LogFilterDto.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\LogFilterDto.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\LogFilterDto.cs",
+              "RelativeToolTip": "TASINMAZ\\Dtos\\LogFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:41:50.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

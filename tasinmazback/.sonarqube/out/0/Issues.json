@@ -1,0 +1,2081 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.14.0.0",
+        "fileVersion": "4.14.0-3.25262.10 (8edf7bcd)",
+        "semanticVersion": "4.14.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Iller' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 26,
+                  "endLine": 11,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Ilceler' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 28,
+                  "endLine": 12,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Mahalleler' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 31,
+                  "endLine": 13,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Tasinmazlar' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 32,
+                  "endLine": 14,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Users' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 28,
+                  "endLine": 15,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Logs' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 16,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Data/AppDbContext.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 27,
+                  "endLine": 16,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 13,
+                  "endLine": 70,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/appsettings.json",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 27,
+                  "endLine": 3,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Dtos/TasinmazFilterDto.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 14,
+                  "endLine": 1,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'TasinmazFilterDto' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Dtos/TasinmazFilterDto.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 14,
+                  "endLine": 1,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'integer' 14 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 52,
+                  "endLine": 19,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 54,
+                  "endLine": 32,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 54,
+                  "endLine": 47,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 52,
+                  "endLine": 50,
+                  "endColumn": 61
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 53,
+                  "endLine": 67,
+                  "endColumn": 62
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 54,
+                  "endLine": 69,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 57,
+                  "endLine": 91,
+                  "endColumn": 66
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 54,
+                  "endLine": 94,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 58,
+                  "endLine": 111,
+                  "endColumn": 67
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 57,
+                  "endLine": 113,
+                  "endColumn": 66
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 51,
+                  "endLine": 114,
+                  "endColumn": 60
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 54,
+                  "endLine": 115,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 116,
+                  "startColumn": 55,
+                  "endLine": 116,
+                  "endColumn": 64
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 54,
+                  "endLine": 118,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "10": null,
+              "11": null,
+              "12": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null,
+              "6": null,
+              "7": null,
+              "8": null,
+              "9": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'PasswordHash' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 23,
+                  "endLine": 46,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 23,
+                  "endLine": 58,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Npgsql:ValueGenerationStrategy' 6 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 37,
+                  "endLine": 20,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 37,
+                  "endLine": 33,
+                  "endColumn": 69
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 37,
+                  "endLine": 48,
+                  "endColumn": 69
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 37,
+                  "endLine": 68,
+                  "endColumn": 69
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 37,
+                  "endLine": 92,
+                  "endColumn": 69
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 37,
+                  "endLine": 112,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Users' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 23,
+                  "endLine": 29,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 41,
+                  "endLine": 82,
+                  "endColumn": 48
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 41,
+                  "endLine": 132,
+                  "endColumn": 48
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 175,
+                  "startColumn": 23,
+                  "endLine": 175,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Users' 10 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 24,
+                  "endLine": 14,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 24,
+                  "endLine": 18,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 24,
+                  "endLine": 23,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 24,
+                  "endLine": 30,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 24,
+                  "endLine": 37,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 24,
+                  "endLine": 47,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 24,
+                  "endLine": 51,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 24,
+                  "endLine": 55,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 24,
+                  "endLine": 59,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 24,
+                  "endLine": 66,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null,
+              "6": null,
+              "7": null,
+              "8": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Ilceler' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 23,
+                  "endLine": 44,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 41,
+                  "endLine": 102,
+                  "endColumn": 50
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 24,
+                  "endLine": 138,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 178,
+                  "startColumn": 23,
+                  "endLine": 178,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'UserId' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 42,
+                  "endLine": 83,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 42,
+                  "endLine": 133,
+                  "endColumn": 50
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 144,
+                  "startColumn": 25,
+                  "endLine": 144,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 159,
+                  "startColumn": 25,
+                  "endLine": 159,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Mahalleler' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 23,
+                  "endLine": 88,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 126,
+                  "startColumn": 41,
+                  "endLine": 126,
+                  "endColumn": 53
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 24,
+                  "endLine": 148,
+                  "endColumn": 36
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 172,
+                  "startColumn": 23,
+                  "endLine": 172,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Tasinmazlar' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 23,
+                  "endLine": 108,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 24,
+                  "endLine": 153,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 158,
+                  "startColumn": 24,
+                  "endLine": 158,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250704072950_InitialCreate.cs",
+                "region": {
+                  "startLine": 169,
+                  "startColumn": 23,
+                  "endLine": 169,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'UserFullName' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250710060334_RemoveUserFullNameFromTasinmazAndLog.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250710060334_RemoveUserFullNameFromTasinmazAndLog.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250710060334_RemoveUserFullNameFromTasinmazAndLog.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 23,
+                  "endLine": 26,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250710060334_RemoveUserFullNameFromTasinmazAndLog.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 23,
+                  "endLine": 33,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'FK_Logs_Users_UserId' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 23,
+                  "endLine": 26,
+                  "endColumn": 45
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 23,
+                  "endLine": 38,
+                  "endColumn": 45
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 23,
+                  "endLine": 52,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'UserId' 6 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 25,
+                  "endLine": 28,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 34,
+                  "endLine": 30,
+                  "endColumn": 42
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 23,
+                  "endLine": 42,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 25,
+                  "endLine": 54,
+                  "endColumn": 33
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 34,
+                  "endLine": 56,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'integer' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 23,
+                  "endLine": 20,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 26,
+                  "endLine": 23,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 23,
+                  "endLine": 44,
+                  "endColumn": 32
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250721072603_MakeLogUserIdNullableAndSetNullOnDelete.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 26,
+                  "endLine": 48,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Başarılı' 5 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/TasinmazService.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 25,
+                  "endLine": 101,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/TasinmazService.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 25,
+                  "endLine": 134,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/TasinmazService.cs",
+                "region": {
+                  "startLine": 161,
+                  "startColumn": 25,
+                  "endLine": 161,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/TasinmazService.cs",
+                "region": {
+                  "startLine": 188,
+                  "startColumn": 25,
+                  "endLine": 188,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/TasinmazService.cs",
+                "region": {
+                  "startLine": 228,
+                  "startColumn": 25,
+                  "endLine": 228,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null
+            }
+          }
+        },
+        {
+          "ruleId": "CA1825",
+          "level": "note",
+          "message": "Avoid unnecessary zero-length array allocations.  Use Array.Empty<byte>() instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 31,
+                  "endLine": 26,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1825",
+          "level": "note",
+          "message": "Avoid unnecessary zero-length array allocations.  Use Array.Empty<byte>() instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Migrations/20250707122248_AddPasswordSaltAndHashToUser.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 31,
+                  "endLine": 33,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'user'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/LogService.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 17,
+                  "endLine": 44,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Dtos/UserDto.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 20,
+                  "endLine": 5,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Dtos/TasinmazDto.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 20,
+                  "endLine": 5,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Dtos/TasinmazDto.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 20,
+                  "endLine": 6,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Dtos/TasinmazDto.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 20,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Dtos/TasinmazDto.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 20,
+                  "endLine": 8,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6960",
+          "level": "warning",
+          "message": "This controller has multiple responsibilities and could be split into 2 smaller controllers.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 18,
+                  "endLine": 16,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 42,
+                  "endLine": 30,
+                  "endColumn": 47
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 42,
+                  "endLine": 49,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "May belong to responsibility #1.",
+              "1": "May belong to responsibility #2."
+            }
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/TasinmazService.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 23,
+                  "endLine": 82,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/UserService.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 23,
+                  "endLine": 67,
+                  "endColumn": 95
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1825",
+          "level": "note",
+          "message": "Avoid unnecessary zero-length array allocations.  Use Array.Empty<string>() instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Program.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 13,
+                  "endLine": 43,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Program.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 13,
+                  "endLine": 43,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "value"
+            }
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await RunAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Program.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 1,
+                  "endLine": 107,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Prefer static 'System.Security.Cryptography.SHA256.HashData' method over 'ComputeHash'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Utilities/CryptoHelper.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 32,
+                  "endLine": 14,
+                  "endColumn": 87
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Utilities/CryptoHelper.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 27,
+                  "endLine": 11,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await GetAsByteArrayAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/LogService.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 20,
+                  "endLine": 118,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await GetAsByteArrayAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/UserService.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 20,
+                  "endLine": 134,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await GetAsByteArrayAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/JAMUMU/Desktop/ASP.NET%20WEB(FM)/TASINMAZ/tasinmazback/TASINMAZ/Services/TasinmazService.cs",
+                "region": {
+                  "startLine": 301,
+                  "startColumn": 20,
+                  "endLine": 301,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1050": {
+          "id": "CA1050",
+          "shortDescription": "Declare types in namespaces",
+          "fullDescription": "Types are declared in namespaces to prevent name collisions and as a way to organize related types in an object hierarchy.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1825": {
+          "id": "CA1825",
+          "shortDescription": "Avoid zero-length array allocations",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1825",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1850": {
+          "id": "CA1850",
+          "shortDescription": "Prefer static 'HashData' method over 'ComputeHash'",
+          "fullDescription": "It is more efficient to use the static 'HashData' method over creating and managing a HashAlgorithm instance to call 'ComputeHash'.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1850",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1861": {
+          "id": "CA1861",
+          "shortDescription": "Avoid constant arrays as arguments",
+          "fullDescription": "Constant arrays passed as arguments are not reused when called repeatedly, which implies a new array is created each time. Consider extracting them to 'static readonly' fields to improve performance if the passed array is not mutated within the called method.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1861",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S112": {
+          "id": "S112",
+          "shortDescription": "General or reserved exceptions should never be thrown",
+          "fullDescription": "This rule raises an issue when a general or reserved exception is thrown.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-112",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1192": {
+          "id": "S1192",
+          "shortDescription": "String literals should not be duplicated",
+          "fullDescription": "Duplicated string literals make the process of refactoring complex and error-prone, as any change would need to be propagated on all occurrences.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1192",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "An unused local variable is a variable that has been declared but is not used anywhere in the block of code where it is defined. It is dead code, contributing to unnecessary complexity and leading to confusion when reading the code. Therefore, it should be removed from your code to maintain clarity and efficiency.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3903",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6960": {
+          "id": "S6960",
+          "shortDescription": "Controllers should not have mixed responsibilities",
+          "fullDescription": "ASP.NET controllers should not have mixed responsibilities. Following the Single Responsibility Principle (SRP), they should be kept lean and focused on a single, separate concern. In short, they should have a single reason to change.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6960",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6964": {
+          "id": "S6964",
+          "shortDescription": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "fullDescription": "\"Under-posting\" refers to a situation where a client sends less data than expected to the server during an HTTP request, for example when the client omits some properties from the request body that the server expects to receive.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6964",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6966": {
+          "id": "S6966",
+          "shortDescription": "Awaitable method should be used",
+          "fullDescription": "In an async method, any blocking operations should be avoided.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6966",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

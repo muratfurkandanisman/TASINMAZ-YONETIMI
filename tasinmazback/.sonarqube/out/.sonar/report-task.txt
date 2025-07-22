@@ -1,0 +1,6 @@
+projectKey=deneme
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=deneme
+ceTaskId=64ffe7c3-814e-475c-a4b6-902f3ee6ea04
+ceTaskUrl=http://localhost:9000/api/ce/task?id=64ffe7c3-814e-475c-a4b6-902f3ee6ea04
