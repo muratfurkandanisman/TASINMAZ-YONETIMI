@@ -1,0 +1,105 @@
+<div class="log-container">
+  <h2 style="margin: 0 0 24px 0; color: #21a584; font-size: 1.7rem; font-weight: 700; text-align: center; letter-spacing: 0.5px;">Log İşlemleri</h2>
+  <div class="content-layout">
+    <!-- Filtreleme Bölümü -->
+    <div class="filter-section">
+      <h3>Filtreler</h3>
+      
+      <div class="filter-grid">
+        <div class="filter-group">
+          <label for="kullaniciId">Kullanıcı ID:</label>
+          <input type="text" id="kullaniciId" [(ngModel)]="filterKullaniciId" class="filter-input" placeholder="Kullanıcı ID ara...">
+        </div>
+
+        <div class="filter-group">
+          <label for="durum">Durum:</label>
+          <select id="durum" [(ngModel)]="filterDurum" class="filter-input">
+            <option value="">Tümü</option>
+            <option value="Başarılı">Başarılı</option>
+            <option value="Başarısız">Başarısız</option>
+          </select>
+        </div>
+
+
+      </div>
+
+      <div class="filter-buttons">
+        <button class="action-btn filter-btn" (click)="applyFilter()">Filtrele</button>
+        <button class="action-btn clear-btn" (click)="clearFilters()">Temizle</button>
+      </div>
+    </div>
+
+    <!-- Tablo Bölümü -->
+    <div class="table-section">
+      
+      <table class="log-table">
+        <thead>
+          <tr>
+            <th style="white-space:nowrap; text-align:center; vertical-align:middle;">
+              <label style="display:flex; align-items:center; justify-content:center; gap:6px; margin:0; cursor:pointer;">
+                <input type="checkbox"
+                  [checked]="isAllSelected()"
+                  (change)="toggleSelectAll($event)"
+                  title="Tümünü Seç"
+                  style="margin:0; vertical-align:middle;">
+                <span style="vertical-align:middle;">TÜMÜ</span>
+              </label>
+            </th>
+            <th>KULLANICI ID</th>
+            <th>DURUM</th>
+            <th>İŞLEM TİPİ</th>
+            <th>AÇIKLAMA</th>
+            <th>TARİH</th>
+            <th>SAAT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let log of paginatedLoglar; let i = index">
+            <td>
+              <input type="checkbox" [(ngModel)]="log.selected" (change)="onRowSelectChange()">
+            </td>
+            <td>{{ log.kullaniciId || log.userId || 'Bilinmiyor' }}</td>
+            <td>
+              <span class="status-badge" [class.success]="log.durum === 'Başarılı'" [class.error]="log.durum === 'Başarısız'">
+                {{ log.durum }}
+              </span>
+            </td>
+            <td>{{ log.islemTipi }}</td>
+            <td class="detay-cell">{{ log.aciklama || log.description || 'Açıklama yok' }}</td>
+            <td>{{ formatDate(log, 'date') }}</td>
+            <td>{{ formatDate(log, 'time') }}</td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <!-- Sayfalama Kontrolleri -->
+      <div class="pagination-container" *ngIf="totalCount > itemsPerPage">
+        <div class="pagination">
+          <button class="pagination-btn" (click)="goToFirstPage()" [disabled]="currentPage === 1">« İlk</button>
+          <button class="pagination-btn" (click)="goToPreviousPage()" [disabled]="currentPage === 1">‹ Önceki</button>
+          <span class="page-numbers">
+            <button 
+              *ngFor="let page of getPageNumbers()" 
+              class="page-btn" 
+              [class.active]="page === currentPage"
+              (click)="goToPage(page)">
+              {{ page }}
+            </button>
+          </span>
+          <button class="pagination-btn" (click)="goToNextPage()" [disabled]="currentPage === totalPages">Sonraki ›</button>
+          <button class="pagination-btn" (click)="goToLastPage()" [disabled]="currentPage === totalPages">Son »</button>
+        </div>
+        
+        <div class="pagination-info">
+          Sayfa {{ currentPage }} / {{ totalPages }} (Toplam {{ totalCount }} kayıt - Sayfa başına {{ itemsPerPage }} kayıt)
+        </div>
+      </div>
+
+      <!-- Export Buttons -->
+      <div class="log-actions" style="margin-top: 16px; display: flex; justify-content: center; gap: 8px;">
+        <button class="action-btn export-pdf-btn" (click)="exportToPdf()">PDF Dışa Aktar</button>
+        <button class="action-btn export-excel-btn" (click)="exportToExcel()">Excel Dışa Aktar</button>
+      </div>
+    </div>
+  </div>
+</div>

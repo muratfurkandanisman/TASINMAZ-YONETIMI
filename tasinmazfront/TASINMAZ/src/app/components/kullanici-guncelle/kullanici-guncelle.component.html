@@ -1,0 +1,39 @@
+<div class="kullanici-ekle-container">
+  <h2>Kullanıcı Güncelle</h2>
+  <form #kullaniciForm="ngForm" (ngSubmit)="onSubmit(kullaniciForm)">
+    <table class="kullanici-ekle-table">
+      <tr>
+        <td><label for="fullName">Ad Soyad:</label></td>
+        <td><input id="fullName" name="fullName" [(ngModel)]="guncellenecekKullanici.fullName" required /></td>
+      </tr>
+      <tr>
+        <td><label for="email">Email:</label></td>
+        <td><input id="email" name="email" type="email" [(ngModel)]="guncellenecekKullanici.email" required /></td>
+      </tr>
+      <tr>
+        <td><label for="password">Parola:</label></td>
+        <td>
+          <input id="password" name="password" type="password"
+            [value]="showPasswordInput ? guncellenecekKullanici.password : '*****'"
+            [readonly]="!showPasswordInput"
+            (click)="enablePasswordInput()"
+            [(ngModel)]="guncellenecekKullanici.password"
+          />
+          <div *ngIf="passwordError" class="error-message">{{ passwordError }}</div>
+        </td>
+      </tr>
+      <tr>
+        <td><label for="role">Rol:</label></td>
+        <td>
+          <select id="role" name="role" [(ngModel)]="guncellenecekKullanici.role" required>
+            <option value="User">Kullanıcı</option>
+            <option value="Admin">Admin</option>
+          </select>
+        </td>
+      </tr>
+    </table>
+    <button class="action-btn update-btn" type="submit" [disabled]="submitting || kullaniciForm.invalid">Güncelle</button>
+    <div *ngIf="successMessage" class="success-message">{{ successMessage }}</div>
+    <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+  </form>
+</div>

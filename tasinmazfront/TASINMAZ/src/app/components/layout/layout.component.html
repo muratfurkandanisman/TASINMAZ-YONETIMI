@@ -1,0 +1,11 @@
+<header class="header modern-header">
+  <div class="left-buttons modern-buttons">
+    <button class="nav-btn modern-btn" routerLink="/tasinmazlar">Mevcut Taşınmazlar Listesi</button>
+    <button *ngIf="role === 'Admin'" class="nav-btn modern-btn" routerLink="/kullanici-listesi">Kullanıcı Listesi</button>
+    <button *ngIf="role === 'Admin'" class="nav-btn modern-btn" routerLink="/log-islemleri">log işlemleri</button>
+  </div>
+  <button class="logout-btn modern-btn" (click)="logout()">Çıkış Yap</button>
+</header>
+<main class="main-content">
+      <router-outlet></router-outlet>
+</main>

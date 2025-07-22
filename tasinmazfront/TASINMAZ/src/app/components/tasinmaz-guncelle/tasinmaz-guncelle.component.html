@@ -1,0 +1,80 @@
+<div class="tasinmaz-guncelle-container">
+  <div class="form-container">
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 24px;">
+      <h2 style="color: #000000; font-size: 1.5rem; font-weight: 700; text-align: center; letter-spacing: 0.5px; margin: 0 0 24px 0;">Taşınmaz Güncelle</h2>
+    </div>
+    <form class="tasinmaz-form">
+      <!-- İl Seçimi -->
+      <div class="form-group">
+        <label for="il">İl:</label>
+        <select id="il" [(ngModel)]="selectedIlId" (change)="onIlChange()" name="il" class="form-control">
+          <option value="" disabled hidden></option>
+          <option *ngFor="let il of iller" [value]="il.ilId">{{ il.name }}</option>
+        </select>
+      </div>
+
+      <!-- İlçe Seçimi -->
+      <div class="form-group">
+        <label for="ilce">İlçe:</label>
+        <select id="ilce" [(ngModel)]="selectedIlceId" (change)="onIlceChange()" name="ilce" 
+                class="form-control">
+          <option value="" disabled hidden></option>
+          <option *ngFor="let ilce of filteredIlceler" [value]="ilce.ilceId">{{ ilce.name }}</option>
+        </select>
+      </div>
+
+      <!-- Mahalle Seçimi -->
+      <div class="form-group">
+        <label for="mahalle">Mahalle:</label>
+        <select id="mahalle" [(ngModel)]="selectedMahalleId" name="mahalle" 
+                class="form-control">
+          <option value="" disabled hidden></option>
+          <option *ngFor="let mahalle of filteredMahalleler" [value]="mahalle.mahalleId">{{ mahalle.name }}</option>
+        </select>
+      </div>
+
+      <!-- Ada -->
+      <div class="form-group">
+        <label for="ada">Ada:</label>
+        <input type="number" id="ada" [(ngModel)]="ada" name="ada" class="form-control" placeholder="Ada numarası">
+      </div>
+
+      <!-- Parsel -->
+      <div class="form-group">
+        <label for="parsel">Parsel:</label>
+        <input type="number" id="parsel" [(ngModel)]="parsel" name="parsel" class="form-control" placeholder="Parsel numarası">
+      </div>
+
+      <!-- Nitelik -->
+      <div class="form-group">
+        <label for="nitelik">Nitelik:</label>
+        <select id="nitelik" [(ngModel)]="nitelik" name="nitelik" class="form-control">
+          <option value="" disabled hidden></option>
+          <option value="Arsa">Arsa</option>
+          <option value="Tarla">Tarla</option>
+          <option value="Mesken">Mesken</option>
+        </select>
+      </div>
+
+      <!-- Koordinat -->
+      <div class="form-group">
+        <label for="koordinat">Koordinat Bilgileri:</label>
+        <input type="text" id="koordinat" [(ngModel)]="koordinat" name="koordinat" 
+               class="form-control" placeholder="Haritadan seçin" readonly>
+        <small class="form-text text-muted">Aşağıdaki haritaya tıklayarak koordinat seçin</small>
+      </div>
+
+      <!-- Butonlar -->
+      <div class="form-actions">
+        <button type="button" class="btn btn-primary" (click)="onSubmit()">Güncelle</button>
+        <button type="button" class="btn btn-secondary" (click)="onCancel()">İptal</button>
+      </div>
+    </form>
+    <!-- Altında Harita Alanı -->
+    <div class="map-section" style="margin-top: 24px;">
+      <h3>Konum Seçin</h3>
+      <div id="map" style="width: 100%; height: 400px; border: 1px solid #ddd; border-radius: 8px;"></div>
+      <p class="map-info">Haritaya tıklayarak koordinat seçebilirsiniz.</p>
+    </div>
+  </div>
+</div>

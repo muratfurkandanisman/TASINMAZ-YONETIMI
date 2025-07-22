@@ -1,0 +1,48 @@
+<div class="kullanici-container">
+  <h2 style="margin: 0 0 24px 0; color: #21a584; font-size: 1.7rem; font-weight: 700; text-align: center; letter-spacing: 0.5px;">Kullanıcı Listesi</h2>
+  <!-- Tablo Bölümü -->
+  <div class="table-section">
+    <table class="kullanici-table">
+      <thead>
+        <tr>
+          <th style="white-space:nowrap; text-align:center; vertical-align:middle;">
+            <label style="display:flex; align-items:center; justify-content:center; gap:6px; margin:0; cursor:pointer;">
+              <input type="checkbox"
+                [checked]="isAllSelected()"
+                (change)="toggleSelectAll($event)"
+                title="Tümünü Seç"
+                style="margin:0; vertical-align:middle;">
+              <span style="vertical-align:middle;">TÜMÜ</span>
+            </label>
+          </th>
+          <th>ID</th>
+          <th>AD SOYAD</th>
+          <th>E-MAIL</th>
+          <th>ROL</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let kullanici of paginatedKullanicilar" (click)="selectKullanici(kullanici)" [class.selected-row]="selectedKullanici && selectedKullanici.userId === kullanici.userId">
+          <td>
+            <input type="checkbox"
+              [checked]="selectedKullaniciIds.includes(kullanici.userId)"
+              (change)="onSelectKullanici(kullanici.userId, $event)"
+              title="Seç">
+          </td>
+          <td>{{ kullanici.userId }}</td>
+          <td>{{ kullanici.fullName }}</td>
+          <td>{{ kullanici.email }}</td>
+          <td>{{ kullanici.role }}</td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <div class="kullanici-actions">
+      <button class="action-btn add-btn" (click)="onAddKullanici()">Kullanıcı Ekle</button>
+      <button class="action-btn update-btn" (click)="onUpdateKullanici()">Kullanıcı Güncelle</button>
+      <button class="action-btn delete-btn" (click)="onDeleteKullanici()">Kullanıcı Sil</button>
+      <button class="action-btn export-pdf-btn" (click)="exportToPdf()">PDF Dışa Aktar</button>
+      <button class="action-btn export-excel-btn" (click)="exportToExcel()">Excel Dışa Aktar</button>
+    </div>
+  </div>
+</div>
