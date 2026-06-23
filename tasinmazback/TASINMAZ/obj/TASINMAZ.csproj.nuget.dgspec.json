@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj": {}
+    "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj": {
+    "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj",
+        "projectUniqueName": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj",
         "projectName": "TASINMAZ",
-        "projectPath": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj",
+        "projectPath": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\TASINMAZ.csproj",
         "packagesPath": "C:\\Users\\JAMUMU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JAMUMU\\Desktop\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\obj\\",
+        "outputPath": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

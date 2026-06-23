@@ -22,17 +22,17 @@ namespace TASINMAZ.Services
             _context = context;
         }
 
-        public async Task<List<UserDto>> GetAllAsync()
+        public async Task<List<UserDto>> GetAllAsync()  //tüm kullanıcıları listeleyen metot
         {
-            return await _context.Users
-                .Select(u => new UserDto
+            return await _context.Users  //data base den tüm kullanıcıları çekiyoruz
+                .Select(u => new UserDto  //her kullanıcıyı UserDto nesnesine dönüştürüyoruz
                 {
-                    UserId = u.UserId,
+                    UserId = u.UserId,    ///her kullanıcı için UserId, FullName, Email ve Role alanlarını alıyoruz
                     FullName = u.FullName,
                     Email = u.Email,
-                    Role = u.Role.ToString()
+                    Role = u.Role.ToString()   //Role enum değerini string olarak alıyoruz cunku UserDto'da Role string olarak tanımlanmış
                 })
-                .ToListAsync();
+                .ToListAsync();  ///Tüm kullanıcıları liste olarak döndürüyoruz
         }
 
         public async Task<List<UserDto>> FilterAsync(UserFilterDto filter)

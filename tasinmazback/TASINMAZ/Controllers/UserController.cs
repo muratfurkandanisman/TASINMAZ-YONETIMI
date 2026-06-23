@@ -6,9 +6,9 @@ using TASINMAZ.Interfaces;
 
 namespace TASINMAZ.Controllers
 {
-    [ApiController]
+    [ApiController]   
     [Route("api/[controller]")]
-    public class UserController : ControllerBase
+    public class UserController : ControllerBase // : ControllerBase: Bu sınıfın bir Web API denetleyicisi olduğunu belirtmek için .NET'in hazır ControllerBase sınıfından miras alıyoruz. Bu sayede sınıfımız, dışarıya cevap dönerken kullanacağımız Ok(), BadRequest(), Unauthorized() gibi hazır HTTP metotlarına erişim kazanıyor.
     {
         private readonly IUserService _userService;
 
@@ -19,7 +19,7 @@ namespace TASINMAZ.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll()  
         {
             var users = await _userService.GetAllAsync();
             return Ok(users);
