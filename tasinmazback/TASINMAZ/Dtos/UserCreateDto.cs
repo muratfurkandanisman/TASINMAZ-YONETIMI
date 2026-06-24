@@ -9,7 +9,7 @@ namespace TASINMAZ.Dtos
         public string FullName { get; set; } = null!;
 
         [Required]
-        [EmailAddress(ErrorMessage = "Geçerli bir e-posta adresi giriniz.")]
+        [EmailAddress(ErrorMessage = "Geçerli bir e-posta adresi giriniz.")] 
         public string Email { get; set; } = null!;
 
         [Required(ErrorMessage = "Şifre gereklidir.")]

@@ -70,7 +70,7 @@ builder.Services.AddAuthentication(options =>
 
 // Add your custom services
 
-builder.Services.AddScoped<TASINMAZ.Interfaces.ITasinmazService, TASINMAZ.Services.TasinmazService>();
+builder.Services.AddScoped<TASINMAZ.Interfaces.ITasinmazService, TASINMAZ.Services.TasinmazService>();///uygulama baþlatýldýðýnda TasinmazService sýnýfýnýn bir örneðini oluþturur ve ITasinmazService arayüzü ile iliþkilendirir. Bu sayede, uygulamanýn herhangi bir yerinde ITasinmazService arayüzü kullanýldýðýnda, TasinmazService sýnýfýnýn örneði otomatik olarak saðlanýr.
 builder.Services.AddScoped<TASINMAZ.Interfaces.IMahalleService, TASINMAZ.Services.MahalleService>();
 builder.Services.AddScoped<TASINMAZ.Interfaces.IIlceService, TASINMAZ.Services.IlceService>();
 builder.Services.AddScoped<TASINMAZ.Interfaces.IUserService, TASINMAZ.Services.UserService>();

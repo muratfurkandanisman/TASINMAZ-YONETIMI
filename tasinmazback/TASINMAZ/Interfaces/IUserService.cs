@@ -6,7 +6,7 @@ namespace TASINMAZ.Interfaces
 {
     public interface IUserService
     {
-        Task<List<UserDto>> GetAllAsync();
+        Task<List<UserDto>> GetAllAsync(); 
         Task<UserDto> CreateAsync(UserCreateDto dto);
         Task<bool> DeleteAsync(int id);
         Task<byte[]> ExportToExcelAsync(UserFilterDto filter);

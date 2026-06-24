@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +19,36 @@
       "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\userfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\tasinmazservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\tasinmazservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\entities\\tasinmaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\entities\\tasinmaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\tasinmazservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\tasinmazservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\ilceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,14 +127,6 @@
       "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\dtos\\logfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\entities\\tasinmaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\entities\\tasinmaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|c:\\users\\jamumu\\desktop\\projeler\\asp.net web(fm)\\tasinmaz\\tasinmazback\\tasinmaz\\entities\\mahalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A330760A-EBA6-4174-90DF-34388546034E}|TASINMAZ\\TASINMAZ.csproj|solutionrelative:tasinmaz\\entities\\mahalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -146,11 +150,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\UserService.cs",
+              "RelativeToolTip": "TASINMAZ\\Services\\UserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:48:38.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TASINMAZ\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:11:21.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -167,41 +197,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\UserCreateDto.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\UserCreateDto.cs",
               "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\UserCreateDto.cs",
               "RelativeToolTip": "TASINMAZ\\Dtos\\UserCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T09:12:09.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "TASINMAZ\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\UserService.cs",
-              "RelativeToolTip": "TASINMAZ\\Services\\UserService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T11:48:38.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TASINMAZ\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "TASINMAZ\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T06:58:35.933Z",
               "EditorCaption": ""
             },
             {
@@ -220,19 +224,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "TASINMAZ\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\UserController.cs",
-              "RelativeToolTip": "TASINMAZ\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\AuthDto.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\AuthDto.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\AuthDto.cs",
+              "RelativeToolTip": "TASINMAZ\\Dtos\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:11:21.263Z",
+              "WhenOpened": "2025-10-15T09:12:01.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "TasinmazService.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\TasinmazService.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Services\\TasinmazService.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\TasinmazService.cs",
+              "RelativeToolTip": "TASINMAZ\\Services\\TasinmazService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:45:12.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Program.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Program.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Program.cs",
+              "RelativeToolTip": "TASINMAZ\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEgAAABzAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:58:12.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TASINMAZ\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:58:35.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tasinmaz.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Entities\\Tasinmaz.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Entities\\Tasinmaz.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Entities\\Tasinmaz.cs",
+              "RelativeToolTip": "TASINMAZ\\Entities\\Tasinmaz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:43:13.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\appsettings.json",
+              "RelativeDocumentMoniker": "TASINMAZ\\appsettings.json",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\appsettings.json",
+              "RelativeToolTip": "TASINMAZ\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T06:56:48.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TASINMAZ\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TASINMAZ\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T06:14:56.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Data\\SeedData.cs",
@@ -240,12 +322,11 @@
               "RelativeToolTip": "TASINMAZ\\Data\\SeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T20:50:09.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T20:50:09.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Entities\\User.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Entities\\User.cs",
@@ -253,25 +334,11 @@
               "RelativeToolTip": "TASINMAZ\\Entities\\User.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:12:42.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T09:12:42.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthDto.cs",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\AuthDto.cs",
-              "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\AuthDto.cs",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\AuthDto.cs",
-              "RelativeToolTip": "TASINMAZ\\Dtos\\AuthDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T09:12:01.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IlDto.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\IlDto.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\IlDto.cs",
@@ -283,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "LogDto.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\LogDto.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\LogDto.cs",
@@ -295,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "MahalleDto.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\MahalleDto.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\MahalleDto.cs",
@@ -307,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "TasinmazFilterDto.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\TasinmazFilterDto.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\TasinmazFilterDto.cs",
@@ -319,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "IlceDto.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\IlceDto.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\IlceDto.cs",
@@ -331,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "IlceService.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\IlceService.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Services\\IlceService.cs",
@@ -343,19 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Tasinmaz.cs",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Entities\\Tasinmaz.cs",
-              "RelativeDocumentMoniker": "TASINMAZ\\Entities\\Tasinmaz.cs",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Entities\\Tasinmaz.cs",
-              "RelativeToolTip": "TASINMAZ\\Entities\\Tasinmaz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T20:43:13.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IIlService.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\IIlService.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Interfaces\\IIlService.cs",
@@ -367,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Mahalle.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Entities\\Mahalle.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Entities\\Mahalle.cs",
@@ -379,19 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TasinmazService.cs",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\TasinmazService.cs",
-              "RelativeDocumentMoniker": "TASINMAZ\\Services\\TasinmazService.cs",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\TasinmazService.cs",
-              "RelativeToolTip": "TASINMAZ\\Services\\TasinmazService.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T20:45:12.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "MahalleController.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\MahalleController.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Controllers\\MahalleController.cs",
@@ -403,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "CryptoHelper.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Utilities\\CryptoHelper.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Utilities\\CryptoHelper.cs",
@@ -415,19 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Program.cs",
-              "RelativeDocumentMoniker": "TASINMAZ\\Program.cs",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Program.cs",
-              "RelativeToolTip": "TASINMAZ\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T06:58:12.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "IIlceService.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\IIlceService.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Interfaces\\IIlceService.cs",
@@ -439,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "TokenHelper.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Utilities\\TokenHelper.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Utilities\\TokenHelper.cs",
@@ -451,19 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\appsettings.json",
-              "RelativeDocumentMoniker": "TASINMAZ\\appsettings.json",
-              "ToolTip": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\appsettings.json",
-              "RelativeToolTip": "TASINMAZ\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-16T06:56:48.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Controllers\\AuthController.cs",
@@ -475,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "TasinmazController.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\TasinmazController.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Controllers\\TasinmazController.cs",
@@ -487,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Services\\AuthService.cs",
@@ -499,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Interfaces\\IAuthService.cs",
@@ -511,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Il.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Entities\\Il.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Entities\\Il.cs",
@@ -523,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "LogController.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Controllers\\LogController.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Controllers\\LogController.cs",
@@ -535,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "LogService.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Services\\LogService.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Services\\LogService.cs",
@@ -547,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ILogService.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Interfaces\\ILogService.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Interfaces\\ILogService.cs",
@@ -559,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "LogFilterDto.cs",
               "DocumentMoniker": "C:\\Users\\JAMUMU\\Desktop\\projeler\\ASP.NET WEB(FM)\\TASINMAZ\\tasinmazback\\TASINMAZ\\Dtos\\LogFilterDto.cs",
               "RelativeDocumentMoniker": "TASINMAZ\\Dtos\\LogFilterDto.cs",
